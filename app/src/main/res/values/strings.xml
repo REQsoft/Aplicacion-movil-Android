@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">U-Movil</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Información</string>
+    <string name="title_notifications">Servicios</string>
+    <string name="title_activity_localizacion">Mapa</string>
+
+    <string-array name="tipo">
+        <item>--------------------------</item>
+        <item>Porcentaje corte</item>
+        <item>Acumulación notas</item>
+    </string-array>
+</resources>
